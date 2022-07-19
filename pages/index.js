@@ -47,7 +47,7 @@ router.push(`/search?term=${term}`);
   {/* Icon */} 
   <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer"/> 
 {/* Avatar */}
-<Avatar url="https://media-exp1.licdn.com/dms/image/C4E03AQGKhH_5D2iORg/profile-displayphoto-shrink_200_200/0/1650972973280?e=1657756800&v=beta&t=ct90TdD_pZvfCS-2SBln5FXl-IjvQDy75OB6b2snZLk" />
+<Avatar url="https://www.foliflora.fr/static/photos/bouquet-roses-rouges.jpg" />
 
 </div>
 </header>
