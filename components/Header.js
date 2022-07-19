@@ -41,7 +41,7 @@ onClick={() =>router.push("/")}
     Search
 </button>
     </form>
-    <Avatar className="ml-auto" url="https://media-exp1.licdn.com/dms/image/C4E03AQGKhH_5D2iORg/profile-displayphoto-shrink_200_200/0/1650972973280?e=1657756800&v=beta&t=ct90TdD_pZvfCS-2SBln5FXl-IjvQDy75OB6b2snZLk"/>
+    <Avatar className="ml-auto" url="https://www.foliflora.fr/static/photos/bouquet-roses-rouges.jpg"/>
     </div>
 {/* HeaderOption */}
 <HeaderOptions/>
